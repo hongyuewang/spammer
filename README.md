@@ -1,2 +1,2 @@
 # spammer
-A Python spam bot that send automatically sends lines from a text file 
+A Python spam bot that can send automatic messages in any chat box.
